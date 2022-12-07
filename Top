@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="http://grade-de-programacao.xml" 
+
+############## infantil ################# 
+
+#EXTINF:-1 tvg-id="cartoon" group-title="Infantil" tvg-name="Cartoon network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTakDFtKLRmAx_7Jwe6UE9Z0i5Tdw20EV1cEw&usqp=CAU",Cartoon network https://server100.online/cartoon/tracks-v1a1/mono.m3u8?token=5eaded22677ce5e96fe83bfe5572c8ddbc7b2ba4-ea85edc3607a52106a664f94ee0b4593-1670374624-1670371024&remote=177.131.218.27.m3u8
